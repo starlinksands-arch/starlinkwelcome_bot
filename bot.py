@@ -24,7 +24,7 @@ and receive 💎 DOUBLE Grand Opening Rewards! 💎
 
 👇 Tap below to get started 👇"""
 
-PHOTO_URL = "https://i.imgur.com/4vxE9hZ.jpg"  # Direct imgur link
+PHOTO_URL = "https://ibb.co/5WcNzvcv"  # imgbb link
 CHANNEL_URL = "https://t.me/starlinkchannel"
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
